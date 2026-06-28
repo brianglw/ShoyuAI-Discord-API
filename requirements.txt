@@ -1,0 +1,5 @@
+chromadb
+discord.py
+ollama
+python-dotenv
+sentence-transformers
