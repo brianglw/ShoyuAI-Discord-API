@@ -3,3 +3,4 @@ discord.py
 ollama
 python-dotenv
 sentence-transformers
+torch
